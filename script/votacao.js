@@ -1,0 +1,1 @@
+window.votacao = new controller();
