@@ -42,5 +42,6 @@ class controller{
         const atualizaDisplay2 = ()=>{
             document.querySelector('#resultado-2').innerText = voto2;
         };
+        // 
     }
 }
